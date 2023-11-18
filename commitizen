@@ -1,4 +1,4 @@
-echo '
+echo "
 [feat]  A new feature
 
 [fix]   A bug fix
@@ -21,4 +21,4 @@ echo '
 [ci] Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
 
 [revert] Reverts a previous commit
-'
+"

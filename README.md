@@ -1,1 +1,1 @@
-A simple list of possible commit tags I "forked" from commitzen.
+A simple list of possible commit tags I "forked" from commitizen.
